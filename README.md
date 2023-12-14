@@ -1,1 +1,10 @@
 # The Archives Parlementaires
+
+The Archives parlementaires is a chronologically-ordered edited collection of archival and published sources on the French Revolution It was conceived in the mid 19th century as a definitive record of parliamentary deliberations. While the AP started as a curatorial endeavor spearheaded by government archivists, it later became a scholarly project under the direction of leading historians. Initiated in 1862 at the request of the French legislature, by 1914 the collection comprised 82 volumes, each around 800 double-columned pages, covering the years 1789-1794. After a long period of dormancy, the project was taken up again in 1962 by the Institut d’histoire de la Revolution française at the Université de Paris I; its progress is ongoing. The current digital archive contains only the first 82 volumes from the first series of the Archives parlementaires, published before the Great War. These volumes roughly cover the first five years of the French Revolution, from the Cahiers des états généraux of 1789 until 15 nivôse an II (4 January 1794). They record the events ranging from the convening of the Estates General through the first half of the Terror. 
+
+The digitization project was carried out by the Stanford University Libraries; volumes 1-82 were scanned and processed with OCR software. An outside vendor tagged the personal names of speakers, dates, and the terms appearing in the published indexes of the AP to allow for more granular searching capabilities. The texts, while as accurate as possible, is nonetheless uncorrected OCR and errors exist. Page images are available to for researchers to verify the OCR text against the printed work. Stanford University Libraries is pleased to work in collaboration with ARTFL on this project. Accessing the AP texts using ARTFL’s PhiloLogic software offers scholars a greater range of search functionalities and results displays. 
+
+PhiloLogic4 installation:  https://artflsrv04.uchicago.edu/philologic4.7/archparl/
+
+Stanford data repository:  https://frda.stanford.edu/french-revolutionary-data-project/
+https://github.com/frenchrevdata
